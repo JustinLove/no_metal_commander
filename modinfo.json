@@ -1,0 +1,13 @@
+{
+  "author": "wondible",
+  "build": "73939",
+  "context": "server",
+  "date": "2014/10/23",
+  "description": "The commander generates no metal, but he has more storage to get going.",
+  "display_name": "No Metal Commander",
+  "forum": null,
+  "identifier": "com.wondible.pa.no_metal_commander",
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
