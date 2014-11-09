@@ -1,13 +1,14 @@
 {
   "author": "wondible",
-  "build": "73939",
+  "build": "74525",
+  "category": ["metal", "commander"],
   "context": "server",
-  "date": "2014/10/23",
+  "date": "2014/11/08",
   "description": "The commander generates no metal, but he has more storage to get going.",
   "display_name": "No Metal Commander",
   "forum": "https://forums.uberent.com/threads/rel-server-no-metal-commander.65489/",
   "identifier": "com.wondible.pa.no_metal_commander",
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 
