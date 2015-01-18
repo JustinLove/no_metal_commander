@@ -1,4 +1,7 @@
 {
+  "articles": {
+    "No Metal Commander": "coui://com.wondible.pa.no_metal_commander/no_metal_commander.html"
+  },
   "topics": {
     "no metal commander": "The commander produces no metal, but starts with extra storage to get going.",
     "reclaim bugs": "Reclaim rate is limited by build rate; if your metal stalls you'll need to stop some things to let scavengers run again."
