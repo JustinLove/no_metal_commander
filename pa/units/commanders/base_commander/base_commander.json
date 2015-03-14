@@ -23,11 +23,11 @@
     }
   },
   "production": {
-    "energy": 3000,
+    "energy": 2000,
     "metal": 1
   },
   "storage": {
-    "energy": 20000,
+    "energy": 45000,
     "metal": 5000
   },
   "unit_types": [

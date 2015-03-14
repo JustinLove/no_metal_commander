@@ -1,3 +1,7 @@
+## 1.1.2
+
+- Update energy production and storage
+
 ## 1.1.1
 
 - Update for underwater sight
