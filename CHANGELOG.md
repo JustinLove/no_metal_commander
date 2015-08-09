@@ -1,3 +1,7 @@
+## 1.1.4
+
+- Update for +sing
+
 ## 1.1.3
 
 - Update help topic prelude for 82293
