@@ -1,3 +1,7 @@
+## 1.2.0
+
+- Now based on titans commander, which has celestial vision and no sing
+
 ## 1.1.4
 
 - Update for +sing
