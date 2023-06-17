@@ -1,3 +1,7 @@
+## 1.2.1
+
+- commander file update, esp Custom58
+
 ## 1.2.0
 
 - Now based on titans commander, which has celestial vision and no sing
